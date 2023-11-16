@@ -1,0 +1,129 @@
+
+body{
+    background-color: red;
+}
+
+/*
+body{
+background-color: yellow;
+}   */
+
+li{
+color: white;
+font-size: 25px;
+text-align: left;
+border: 20px;
+padding:10px;
+margin: 40px;
+list-style-type: none;
+float: left;
+
+}
+.drop-down-list{
+    background-color: green;
+    color:white;
+    list-style-type: none;
+    float: left;
+}
+.title{
+    background-color: grey;
+    color: white;
+    font-size:30px;
+    font-weight: bold;
+    border: 120px 90px 120px 90px;
+    padding: 60px;
+    margin: 40px;
+    text-decoration: dashed;
+    text-align:center;
+    text-transform: capitalize;
+}
+.title2{
+    background-color: green;
+    color:black;
+    font-size:25px;
+    font-weight: bold;
+    border: 100px 70px 100px 60px;
+    padding: 40px 30px;
+    margin:40px 20px;
+    text-decoration:double;
+    text-align:center;
+    text-transform: capitalize;
+}
+
+.title3{
+    background-color: aqua;
+    color: black;
+    font-size: 25px;
+    font-weight: inherit;
+    border: 120px 80px 120px 70px;
+    padding: 50px 40px;
+    margin: 40px 30px;
+    text-decoration: double;
+    text-align:center;
+    text-transform:capitalize;
+
+}
+.title4{
+    background-color: blanchedalmond;
+    color:black;
+    font-size: 22px;
+    font-weight: initial;
+    bordeR:120px 70px 110px 60px;
+    padding: 60px 40px;
+    margin: 40px;
+    text-decoration: dotted;
+    text-align:center;
+    text-transform: capitalize;
+}
+.button1{
+    background-color: black;
+    color:white;
+    font-size:10px;
+    font-weight:bold;
+    border: 20px 10px 20px 10px;
+    padding:15px 10px;
+    margin:14px;
+    cursor:pointer;
+    text-decoration: underline;
+    text-decoration-color: azure;
+    text-transform:capitalize;
+}
+.button{
+    background-color: brown;
+    color:black;
+    font-size: 14px;
+    font-weight: bold;
+    border: 40px 20px 40px 20px;
+    padding: 20px 10px 20px 10px;
+    margin:30px 20px;
+    text-decoration:double;
+    border-style:dashed;
+    text-align:center;
+    text-transform:capitalize;
+}
+h3,h2 {
+    font-family: Verdana, monospace;
+    font-size:23px;
+    font-weight: bold, initial;
+    background-color: yellow;
+    text-align: center;
+    color: black;
+    text-decoration: overline;
+    text-transform:capitalize;
+}
+
+
+p{
+    border: 100px 70px 100px 60px;
+    padding: 40px 30px;
+    margin:40px 20px;
+color: rgb(196, 15, 15);
+border-style: inset;
+text-align: center;
+text-decoration: underline;
+text-decoration-color:green;
+text-decoration-style:dotted;
+text-transform: capitalize;
+
+
+}
